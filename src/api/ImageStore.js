@@ -1,3 +1,7 @@
+/**
+ * https://github.com/facebook/react-native/blob/master/Libraries/Image/ImageStore.js
+ */
+
 import ImageStoreManager from '../NativeModules/ImageStoreManager';
 
 class ImageStore {

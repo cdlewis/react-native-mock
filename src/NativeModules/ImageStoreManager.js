@@ -1,3 +1,7 @@
+/**
+ * https://github.com/facebook/react-native/blob/master/Libraries/Image/RCTImageStoreManager.m
+ */
+
 const ImageStoreManager = {
   hasImageForTag(uri, callback) {
     callback(true);
